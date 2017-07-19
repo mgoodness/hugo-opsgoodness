@@ -1,4 +1,4 @@
-baseURL = "http://opsgoodness.me/"
+baseURL = "http://opsgoodness.net/"
 languageCode = "en-us"
 title = "opsgoodness"
 theme = "minimal"
